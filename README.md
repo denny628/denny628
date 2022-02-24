@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm 賴昶宏</h1>
-<h3 align="center">不是大學生了 會一點吉他 html css javascript</h3>
+<h3 align="center">不是大學生了 會一點吉他 ASP.NET SQL SERVER JavaScript</h3>
 
 - 🌱 I’m currently learning **css,javascript**
 
